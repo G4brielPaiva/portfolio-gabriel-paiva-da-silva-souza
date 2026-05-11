@@ -11,11 +11,13 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o 2º período de Ciêcncia na Univesidade Cidade de São Paulo. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Análise de dados e Programação.
- 
-* *Habilidades Técnicas:* Python, HTML5, CSS3, SQL, Supabase, Bubble, JavaScript.
-* *Habilidades Socioemocionais:* Trabalho em equipe, comunicação assertiva, pensamento crítico e analítico.
-* *Experiência/Projetos Relevantes:* Atuei em um projeto de estufa automatizada com arduino uno onde desenvolvi habilidades com programação em C e de elétrica.
+Atualmente cursando o 2º período de Ciência da Computação na Universidade Cidade de São Paulo. Minha trajetória é focada na intersecção entre Análise de Dados e Engenharia de Software, com o objetivo de construir soluções tecnológicas escaláveis e orientadas a dados.
+
+Habilidades Técnicas: Proficiência em Python e SQL para manipulação de grandes volumes de dados; desenvolvimento Web (HTML5, CSS3, JavaScript) e integração de Backend as a Service (BaaS) com Supabase; além de expertise em arquitetura No-Code com Bubble.io.
+
+Habilidades Socioemocionais: Comunicação assertiva, pensamento crítico-analítico e resolução de problemas complexos em equipe.
+
+Experiência & Projetos Relevantes: Desenvolvi um sistema de Estufa Automatizada utilizando Arduino Uno. O projeto envolveu a implementação de lógica de controle em linguagem C e o design de circuitos elétricos, focando na otimização da coleta de dados sensoriais em tempo real.
  
 ---
  
