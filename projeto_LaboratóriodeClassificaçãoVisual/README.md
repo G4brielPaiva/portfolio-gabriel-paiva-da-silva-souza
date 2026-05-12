@@ -1,9 +1,9 @@
 # ⚖️ Laboratório de Classificação Visual e Ética em IA
 
 ## 📝 Descrição do Projeto
-Este projeto consiste em um experimento prático focado na identificação e análise de vieses em modelos de aprendizado de máquina, realizado como parte da disciplina de Inteligência Artificial. O objetivo principal é demonstrar como a curadoria de dados enviesada corrompe a lógica de classificação, utilizando a ferramenta Teachable Machine para criar um modelo que distingue entre "Perfil Liderança" e "Perfil Operacional".
+Este projeto investiga a propagação de vieses cognitivos em modelos de Computer Vision (Visão Computacional). O experimento utiliza a plataforma Teachable Machine para treinar um modelo de classificação binária — "Perfil Liderança" vs. "Perfil Operacional" — a partir de um dataset enviesado. O objetivo é evidenciar como a arquitetura das Convolutional Neural Networks (CNNs), apesar de sua eficiência técnica, é agnóstica à ética e replica fielmente os preconceitos contidos nos dados de entrada.
 
-A metodologia envolve a alimentação deliberada do algoritmo com estereótipos (ex: homens de terno para liderança e roupas informais para o operacional) para registrar falhas de inferência e analisar os impactos éticos dessas classificações automatizadas.
+A metodologia demonstra que, ao alimentar o modelo com estereótipos visuais, a lógica de extração de características (feature extraction) foca em ruídos de correlação (como vestimentas e acessórios) em vez de atributos reais, resultando em falhas de inferência sistêmicas.
 
 ![Registro do erro de classificação devido ao viés dos dados de treinamento]
 Figura 1: Evidência visual do modelo apresentando falha de classificação.
